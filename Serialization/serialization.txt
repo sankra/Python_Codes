@@ -1,1 +1,21 @@
+Serialization in python:-
+Serialization of Python Objects
+	Serialization is the process of converting a Python object (like a dictionary, list, or class instance) into a format 
+	that can be stored, transmitted, or shared. The most common formats for serialization are JSON, Pickle, and XML.
+	
+Why is Serialization Needed?
+	Save Python objects to files (Persistence)
+		Example: Save user settings, cache data, logs.
+	Send data over networks
+		Example: APIs, Kafka messages, WebSockets.
+	Inter-process communication
+		Example: Share data between different Python programs.
+	Database storage
+		Example: Store Python objects in databases like MongoDB or Redis.
+		
 
+Serialization with JSON (Most Common)
+The json module in Python is widely used for serialization because JSON is: 
+✅ Human-readable
+✅ Supported by most programming languages
+✅ Ideal for web applications and APIs
