@@ -1,0 +1,9 @@
+#Unpacking variables in python:-
+	
+	Unpacking in Python is the process of assigning elements of an iterable (list, tuple, set, Strings, etc.) 
+	to multiple variables in a single statement.
+	
+	Unpacking works only for iterables. (It doesnot work for integers)
+
+#Using Asterisk*
+If the number of variables is less than the number of values, you can add an * to the variable name and the values will be assigned to the variable as a list:
