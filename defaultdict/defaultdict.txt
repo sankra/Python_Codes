@@ -1,0 +1,9 @@
+# defaultdict in Python
+The defaultdict is a subclass of Python’s built-in dict class, available in the collections module. It provides a default value for non-existent keys, avoiding KeyError when accessing missing keys.
+
+#Syntax
+from collections import defaultdict
+d = defaultdict(default_factory)
+
+-> default_factory is a callable (e.g., int, list, set, etc.) that provides default values.
+-> If a missing key is accessed, the default value is automatically created and assigned.
