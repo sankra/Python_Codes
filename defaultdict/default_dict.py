@@ -1,0 +1,1 @@
+#This code shows the difference between a normal dict and a default dict
