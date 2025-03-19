@@ -1,0 +1,7 @@
+zip function in Python:-
+
+The zip() function in Python is used to combine elements from multiple iterable objects (
+such as lists, tuples, or strings) into tuples. It returns an iterator of tuples, where each 
+tuple contains elements from the input iterables at the corresponding positions.
+
+zip(iterable1, iterable2, ...)
