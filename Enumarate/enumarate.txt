@@ -1,0 +1,9 @@
+Enumerate in python:-
+
+In Python, enumerate() is a built-in function that returns an enumerate object, 
+which yields pairs of elements along with their indices. 
+
+It's commonly used in loops to iterate over a sequence (such as a list, tuple, or string) 
+while keeping track of the index of each element.
+
+It is simply used to keep track of the iteration.
