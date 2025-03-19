@@ -9,3 +9,7 @@ zipped = zip(list1, list2, list3)
 result = list(zipped)
 
 print(result)
+
+
+#Output:-
+#[(1, 'a', 10), (2, 'b', 20), (3, 'c', 30)]
