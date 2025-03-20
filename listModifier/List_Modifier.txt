@@ -1,0 +1,4 @@
+List Modifier:-
+
+List Modifier is a technique to modify a specific list.
+In this given method a list is getting modified by assigning a empty list. Thus we are modifing a specific list.
