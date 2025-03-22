@@ -1,0 +1,4 @@
+#Underscore as a NO-VALUE
+
+In Python, the underscore character _ is often used as a variable name when the value of the variable is not important or unused. 
+It's a convention that indicates to the reader of the code that the variable is being used as a placeholder or to ignore the value.
