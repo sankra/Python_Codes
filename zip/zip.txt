@@ -5,3 +5,9 @@ such as lists, tuples, or strings) into tuples. It returns an iterator of tuples
 tuple contains elements from the input iterables at the corresponding positions.
 
 zip(iterable1, iterable2, ...)
+
+Syntax:-
+
+zipped = zip(list1, list2, list3)
+result = list(zipped)
+print(result)
