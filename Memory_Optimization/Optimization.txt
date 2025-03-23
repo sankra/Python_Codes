@@ -1,0 +1,7 @@
+Optimize class memory with __slots__
+When you define a class in Python, by default it uses a dynamic dictionary (__dict__) to store instance attributes. This consumes more memory, especially when creating many instances.
+With __slots__, you can restrict attribute creation and save memory by telling Python to not use __dict__.
+
+Memory-efficient: Saves memory when you create lots of objects.
+Prevents unexpected attributes from being added.
+Makes your code more strict and faster in attribute access.
