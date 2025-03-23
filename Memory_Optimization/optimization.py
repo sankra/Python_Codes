@@ -8,3 +8,7 @@ class Person:
 # Usage
 p = Person("Alice", 30)
 print(p.name, p.age)
+
+
+# output
+# Alice 30
