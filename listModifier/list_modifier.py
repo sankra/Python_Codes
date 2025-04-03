@@ -1,5 +1,5 @@
 mylist = [2, 4, 6, 8, 10, 12, 14, 16] 
-mylist[1:5] = [] 
+mylist[1:5] = [] #performing indexing on the list.
 print (mylist)
 
 #output
